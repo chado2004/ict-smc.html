@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta http-equiv="refresh" content="0; url=https://mon-academy.mychariow.co/ict-smc">
+  <title>Formation ICT/SMC - Redirection</title>
+  <link rel="canonical" href="https://mon-academy.mychariow.co/ict-smc">
+  <script>
+    window.location.replace("https://mon-academy.mychariow.co/ict-smc");
+  </script>
+</head>
+<body>
+  <p>Redirection en cours vers la formation ICT/SMC... Si rien ne se passe, <a href="https://mon-academy.mychariow.co/ict-smc">clique ici</a>.</p>
+</body>
+</html>
